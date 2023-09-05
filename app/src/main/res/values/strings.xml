@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NASA Search Engine</string>
+    <string name="search">search</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
